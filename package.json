@@ -1,0 +1,23 @@
+{
+  "name": "lhvcalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run":  "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karluust/lhvcalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karluust/lhvcalc/issues"
+  },
+  "homepage": "https://github.com/karluust/lhvcalc#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
