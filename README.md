@@ -1,4 +1,4 @@
-# Prerequesits
+# Prerequisites
 
 - Node.js
 - npm
